@@ -1,6 +1,6 @@
 # IMDB-NLP-Classification
 # 自然语言处理 IMDB 情感分析数据集任务
-
+- 算法验证集准确度：总体88% -> Transformer模型，准确度总体提升5.8%。
 - [x] Version 0: TF-IDF - Logistic
      * Logistic Score: 0.90000 
 
